@@ -1,0 +1,2249 @@
+[
+  {
+    "id": 1,
+    "name": "Hemnes",
+    "type": "desk",
+    "description": "by Stig Larsson",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-11.png",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 20.0,
+    "sale_price": 17.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Burs",
+    "type": "desk",
+    "description": "by Erik Johansson",
+    "slug": "hm-global-desi",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-22.png",
+      "original": "/assets/images/products/p-22-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-22-1.png",
+        "original": "/assets/images/products/p-22-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-22-2.png",
+        "original": "/assets/images/products/p-22-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-12-3.png",
+        "original": "/assets/images/products/p-12-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-12-4.png",
+        "original": "/assets/images/products/p-12-4.png"
+      }
+    ],
+    "price": 40.0,
+    "sale_price": 30.0,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gervi",
+    "description": "by Karin Andersson",
+    "slug": "zara-solly-white-shirt",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-18.png",
+      "original": "/assets/images/products/p-18-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-18-1.png",
+        "original": "/assets/images/products/p-18-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-18-2.png",
+        "original": "/assets/images/products/p-18-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-18-3.png",
+        "original": "/assets/images/products/p-18-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-18-4.png",
+        "original": "/assets/images/products/p-18-4.png"
+      }
+    ],
+    "price": 32.0,
+    "sale_price": 25.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kallax",
+    "description": "by Anders Nilsson",
+    "slug": "hermes-carlton-london",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-11.png",
+      "original": "/assets/images/products/p-14-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-14-1.png",
+        "original": "/assets/images/products/p-14-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-14-2.png",
+        "original": "/assets/images/products/p-14-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-14-3.png",
+        "original": "/assets/images/products/p-14-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-14-4.png",
+        "original": "/assets/images/products/p-14-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 15.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nymo",
+    "description": "by Lena Lindberg",
+    "slug": "scuba-stand-collar-topper-jacket",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-22.png",
+      "original": "/assets/images/products/p-15-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-15-1.png",
+        "original": "/assets/images/products/p-15-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-15-2.png",
+        "original": "/assets/images/products/p-15-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-15-3.png",
+        "original": "/assets/images/products/p-15-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-15-4.png",
+        "original": "/assets/images/products/p-15-4.png"
+      }
+    ],
+    "price": 16.0,
+    "sale_price": 12.0,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Linnmon",
+    "description": "by Johan Bergström",
+    "slug": "armani-wide-leg-trousers",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-18.png",
+      "original": "/assets/images/products/p-16-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-16-1.png",
+        "original": "/assets/images/products/p-16-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-16-2.png",
+        "original": "/assets/images/products/p-16-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-16-3.png",
+        "original": "/assets/images/products/p-16-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-16-4.png",
+        "original": "/assets/images/products/p-16-4.png"
+      }
+    ],
+    "price": 80.0,
+    "sale_price": 60.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Koppang",
+    "description": "by Ingrid Lundqvist",
+    "slug": "short-sleeve-shirts-for-men",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-11.png",
+      "original": "/assets/images/products/p-17-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-17-1.png",
+        "original": "/assets/images/products/p-17-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-17-2.png",
+        "original": "/assets/images/products/p-17-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-17-3.png",
+        "original": "/assets/images/products/p-17-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-17-4.png",
+        "original": "/assets/images/products/p-17-4.png"
+      }
+    ],
+    "price": 18.99,
+    "sale_price": 12.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Flarke",
+    "description": "by Magnus Olsson",
+    "slug": "blazer-and-a-neck-scarf",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-22.png",
+      "original": "/assets/images/products/p-13-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      }
+    ],
+    "price": 23.0,
+    "sale_price": 13.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sultan",
+    "description": "by Maria Gustavsson",
+    "slug": "zara-shoes-green",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-18.png",
+      "original": "/assets/images/products/p-19-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-19-1.png",
+        "original": "/assets/images/products/p-19-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-19-2.png",
+        "original": "/assets/images/products/p-19-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-19-3.png",
+        "original": "/assets/images/products/p-19-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-19-4.png",
+        "original": "/assets/images/products/p-19-4.png"
+      }
+    ],
+    "price": 300.0,
+    "sale_price": 250.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Fagerland",
+    "description": "by Gunnar Johannesson",
+    "slug": "hermes-carlton-london",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-11.png",
+      "original": "/assets/images/products/p-20-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-20-1.png",
+        "original": "/assets/images/products/p-20-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-20-2.png",
+        "original": "/assets/images/products/p-20-2.png"
+      }
+    ],
+    "price": 20.0,
+    "sale_price": 15.0,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Liatorp",
+    "description": "by Birgitta Andersson",
+    "slug": "nike-black",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-22.png",
+      "original": "/assets/images/products/p-1-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-1-1.png",
+        "original": "/assets/images/products/p-1-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-1-2.png",
+        "original": "/assets/images/products/p-1-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-1-3.png",
+        "original": "/assets/images/products/p-1-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-1-4.png",
+        "original": "/assets/images/products/p-1-4.png"
+      }
+    ],
+    "price": 15.0,
+    "sale_price": 11.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Vittsjo",
+    "description": "by Henrik Pettersson",
+    "slug": "hermes-carlton-london",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-18.png",
+      "original": "/assets/images/products/p-2-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-2-1.png",
+        "original": "/assets/images/products/p-2-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-2-2.png",
+        "original": "/assets/images/products/p-2-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-2-3.png",
+        "original": "/assets/images/products/p-2-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-2-4.png",
+        "original": "/assets/images/products/p-2-4.png"
+      }
+    ],
+    "price": 16.38,
+    "sale_price": 12.3,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Edland",
+    "description": "by Elsa Nilsson",
+    "slug": "gucci-carlton-uk",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-11.png",
+      "original": "/assets/images/products/p-8-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-8-1.png",
+        "original": "/assets/images/products/p-8-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-8-2.png",
+        "original": "/assets/images/products/p-8-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-8-3.png",
+        "original": "/assets/images/products/p-8-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-8-4.png",
+        "original": "/assets/images/products/p-8-4.png"
+      }
+    ],
+    "price": 19.99,
+    "sale_price": 14.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Besta",
+    "description": "by Tobias Karlsson",
+    "slug": "regular-fit-flannel-shirt",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-22.png",
+      "original": "/assets/images/products/p-4-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-4-1.png",
+        "original": "/assets/images/products/p-4-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-4-2.png",
+        "original": "/assets/images/products/p-4-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-4-3.png",
+        "original": "/assets/images/products/p-4-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-4-4.png",
+        "original": "/assets/images/products/p-4-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 8.0,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Askvoll",
+    "description": "by Elin Johansson",
+    "slug": "eco-friendly-clothing-brands-that",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-18.png",
+      "original": "/assets/images/products/p-5-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-5-1.png",
+        "original": "/assets/images/products/p-5-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-5-2.png",
+        "original": "/assets/images/products/p-5-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-5-3.png",
+        "original": "/assets/images/products/p-5-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-5-4.png",
+        "original": "/assets/images/products/p-5-4.png"
+      }
+    ],
+    "price": 28.0,
+    "sale_price": 20.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Askholmen",
+    "description": "by Carl Bergström",
+    "slug": "oversized-w-sweater",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-11.png",
+      "original": "/assets/images/products/p-6-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-6-1.png",
+        "original": "/assets/images/products/p-6-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-6-2.png",
+        "original": "/assets/images/products/p-6-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-6-3.png",
+        "original": "/assets/images/products/p-6-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-6-4.png",
+        "original": "/assets/images/products/p-6-4.png"
+      }
+    ],
+    "price": 70.0,
+    "sale_price": 55.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Hopen",
+    "description": "by Agneta Lindqvist",
+    "slug": "regular-fit-crew-neck-t-shirt",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-22.png",
+      "original": "/assets/images/products/p-7-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-7-1.png",
+        "original": "/assets/images/products/p-7-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-7-2.png",
+        "original": "/assets/images/products/p-7-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-7-3.png",
+        "original": "/assets/images/products/p-7-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-7-4.png",
+        "original": "/assets/images/products/p-7-4.png"
+      }
+    ],
+    "price": 16.38,
+    "sale_price": 12.3,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Soderhamn",
+    "description": "by Nils Lundberg",
+    "slug": "zara-shoes-green",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-18.png",
+      "original": "/assets/images/products/p-3-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-3-1.png",
+        "original": "/assets/images/products/p-3-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-3-2.png",
+        "original": "/assets/images/products/p-3-2.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 50.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Gerton",
+    "description": "by Marta Pettersson",
+    "slug": "women-fitted-neck-t-shirt",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-11.png",
+      "original": "/assets/images/products/p-9-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-9-1.png",
+        "original": "/assets/images/products/p-9-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-9-2.png",
+        "original": "/assets/images/products/p-9-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-9-3.png",
+        "original": "/assets/images/products/p-9-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-9-4.png",
+        "original": "/assets/images/products/p-9-4.png"
+      }
+    ],
+    "price": 30.0,
+    "sale_price": 28.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tromso",
+    "description": "by Mikael Hansson",
+    "slug": "nike-shoes",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-22.png",
+      "original": "/assets/images/products/p-10-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-10-1.png",
+        "original": "/assets/images/products/p-10-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-10-2.png",
+        "original": "/assets/images/products/p-10-2.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 39.99,
+    "quantity": 0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@ import axios from "axios";
 import { getToken } from "./get-token";
 
 const http = axios.create({
-  baseURL: "https://bodea-old.vercel.app",
+  baseURL: "https://bodea-old.vercel.app/api",
   timeout: 30000,
   headers: {
     Accept: "application/json",

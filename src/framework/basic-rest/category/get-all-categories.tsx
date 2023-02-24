@@ -1,9 +1,11 @@
-import { CategoriesQueryOptionsType, Category } from '@framework/types';
-import http from '@framework/utils/http';
-import { API_ENDPOINTS } from '@framework/utils/api-endpoints';
-import { useQuery } from 'react-query';
+import { CategoriesQueryOptionsType, Category } from "@framework/types";
+import http from "@framework/utils/http";
+import { API_ENDPOINTS } from "@framework/utils/api-endpoints";
+import { useQuery } from "react-query";
 
 export const fetchCategories = async ({ queryKey }: any) => {
+  console.log("getAllCat", queryKey);
+
   const [_key, _params] = queryKey;
   const {
     data: { data },
@@ -20,8 +22,14 @@ const fetchAncientCategories = async ({ queryKey }: any) => {
 };
 
 export const useCategoriesQuery = (options: CategoriesQueryOptionsType) => {
-  if (options.demoVariant === 'ancient') {
-    return useQuery<{ categories: { data: Category[] } }, Error>([API_ENDPOINTS.CATEGORIES, options], fetchAncientCategories);
+  if (options.demoVariant === "ancient") {
+    return useQuery<{ categories: { data: Category[] } }, Error>(
+      [API_ENDPOINTS.CATEGORIES, options],
+      fetchAncientCategories
+    );
   }
-  return useQuery<{ categories: { data: Category[] } }, Error>([API_ENDPOINTS.CATEGORIES, options], fetchCategories);
+  return useQuery<{ categories: { data: Category[] } }, Error>(
+    [API_ENDPOINTS.CATEGORIES, options],
+    fetchCategories
+  );
 };

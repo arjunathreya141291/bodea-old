@@ -41,7 +41,9 @@ export const PriceFilter = () => {
 
   React.useEffect(() => {
     setFormState(selectedPrices);
+    console.log("selectedPrices", selectedPrices);
   }, [query?.price]);
+
   function handleItemClick(e: React.FormEvent<HTMLInputElement>): void {
     setSearchProducts("82,000");
     const { value } = e.currentTarget;

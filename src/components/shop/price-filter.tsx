@@ -6,28 +6,23 @@ import { SearchContext } from "@contexts/search";
 const priceFilterItems = [
   {
     id: "1",
-    name: "Under $50",
-    slug: "$0-$50",
+    name: "Under $150",
+    slug: "$0-$150",
   },
   {
     id: "2",
-    name: "$50 to $100",
-    slug: "$50-$100",
+    name: "$150 to $350",
+    slug: "$150-$350",
   },
   {
     id: "3",
-    name: "$100 to $300",
-    slug: "$100-$300",
+    name: "$350 to $500",
+    slug: "$350-$500",
   },
   {
     id: "4",
-    name: "$300 to $500",
-    slug: "$300-$500",
-  },
-  {
-    id: "5",
     name: "Over $500",
-    slug: "$500-",
+    slug: "Over $500",
   },
 ];
 export const PriceFilter = () => {
@@ -45,7 +40,7 @@ export const PriceFilter = () => {
   }, [query?.price]);
 
   function handleItemClick(e: React.FormEvent<HTMLInputElement>): void {
-    setSearchProducts("82,000");
+    setSearchProducts("64,000");
     const { value } = e.currentTarget;
     let currentFormState = formState.includes(value)
       ? formState.filter((i) => i !== value)

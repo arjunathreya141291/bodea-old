@@ -34,7 +34,7 @@
       }
     ],
     "price": 200.0,
-    "sale_price": 170.99,
+    "sale_price": 140.99,
     "depth": "standard",
     "variations": [
       {
@@ -148,8 +148,9 @@
         "original": "/assets/images/products/p-12-4.png"
       }
     ],
-    "price": 40.0,
-    "sale_price": 30.0,
+    "price": "",
+    "sale_price": 400.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -263,8 +264,9 @@
         "original": "/assets/images/products/p-18-4.png"
       }
     ],
-    "price": 32.0,
-    "sale_price": 25.0,
+    "price": 320.0,
+    "sale_price": 170.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -377,7 +379,8 @@
       }
     ],
     "price": "",
-    "sale_price": 15.0,
+    "sale_price": 370.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -490,8 +493,8 @@
         "original": "/assets/images/products/p-15-4.png"
       }
     ],
-    "price": 160.0,
-    "sale_price": 110.0,
+    "price": 460.0,
+    "sale_price": 390.0,
     "depth": "standard",
     "quantity": 0,
     "variations": [
@@ -605,8 +608,9 @@
         "original": "/assets/images/products/p-16-4.png"
       }
     ],
-    "price": 80.0,
-    "sale_price": 60.0,
+    "price": 480.0,
+    "sale_price": 360.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -832,8 +836,9 @@
         "original": "/assets/images/products/p-13-2.png"
       }
     ],
-    "price": 23.0,
-    "sale_price": 13.0,
+    "price": 220.0,
+    "sale_price": 170.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -1049,8 +1054,9 @@
         "original": "/assets/images/products/p-20-2.png"
       }
     ],
-    "price": 20.0,
-    "sale_price": 15.0,
+    "price": 600.0,
+    "sale_price": 580.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -1163,8 +1169,9 @@
         "original": "/assets/images/products/p-1-4.png"
       }
     ],
-    "price": 15.0,
-    "sale_price": 11.0,
+    "price": 150.0,
+    "sale_price": 110.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -1391,8 +1398,9 @@
         "original": "/assets/images/products/p-8-4.png"
       }
     ],
-    "price": 19.99,
-    "sale_price": 14.99,
+    "price": 190.99,
+    "sale_price": 140.99,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -1506,7 +1514,8 @@
       }
     ],
     "price": "",
-    "sale_price": 8.0,
+    "sale_price": 90.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -1619,8 +1628,9 @@
         "original": "/assets/images/products/p-5-4.png"
       }
     ],
-    "price": 28.0,
-    "sale_price": 20.0,
+    "price": 680.0,
+    "sale_price": 600.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -1733,8 +1743,9 @@
         "original": "/assets/images/products/p-6-4.png"
       }
     ],
-    "price": 70.0,
-    "sale_price": 55.0,
+    "price": 170.0,
+    "sale_price": 155.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -1952,7 +1963,8 @@
       }
     ],
     "price": "",
-    "sale_price": 50.0,
+    "sale_price": 190.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -2065,8 +2077,8 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 300.0,
-    "sale_price": 280.0,
+    "price": 450.0,
+    "sale_price": 380.0,
     "depth": "standard",
     "variations": [
       {
@@ -2170,8 +2182,8 @@
       }
     ],
     "price": "",
-    "sale_price": 190.99,
-    "depth": "standard",
+    "sale_price": 590.99,
+    "depth": "narrow",
     "quantity": 0,
     "variations": [
       {
@@ -2285,8 +2297,8 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 300.0,
-    "sale_price": 280.0,
+    "price": 400.0,
+    "sale_price": 380.0,
     "depth": "standard",
     "variations": [
       {
@@ -2400,8 +2412,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 600.0,
+    "sale_price": 580.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -2629,7 +2642,7 @@
       }
     ],
     "price": 300.0,
-    "sale_price": 280.0,
+    "sale_price": 130.0,
     "depth": "standard",
     "variations": [
       {
@@ -2959,8 +2972,9 @@
         "original": "/assets/images/products/p-20-2.png"
       }
     ],
-    "price": 20.0,
-    "sale_price": 15.0,
+    "price": 500.0,
+    "sale_price": 450.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -3073,8 +3087,9 @@
         "original": "/assets/images/products/p-1-4.png"
       }
     ],
-    "price": 15.0,
-    "sale_price": 11.0,
+    "price": 615.0,
+    "sale_price": 510.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -3300,8 +3315,9 @@
         "original": "/assets/images/products/p-8-4.png"
       }
     ],
-    "price": 19.99,
-    "sale_price": 14.99,
+    "price": 400.99,
+    "sale_price": 380.99,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -3415,7 +3431,8 @@
       }
     ],
     "price": "",
-    "sale_price": 8.0,
+    "sale_price": 580.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -3528,8 +3545,8 @@
         "original": "/assets/images/products/p-5-4.png"
       }
     ],
-    "price": 28.0,
-    "sale_price": 20.0,
+    "price": 150.0,
+    "sale_price": 120.0,
     "depth": "standard",
     "variations": [
       {
@@ -3643,8 +3660,9 @@
         "original": "/assets/images/products/p-6-4.png"
       }
     ],
-    "price": 70.0,
-    "sale_price": 55.0,
+    "price": 700.0,
+    "sale_price": 550.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -3756,8 +3774,9 @@
         "original": "/assets/images/products/p-7-4.png"
       }
     ],
-    "price": 16.38,
-    "sale_price": 12.3,
+    "price": 160.38,
+    "sale_price": 120.3,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -3861,7 +3880,8 @@
       }
     ],
     "price": "",
-    "sale_price": 50.0,
+    "sale_price": 450.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -3974,9 +3994,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 300.0,
-    "sale_price": 280.0,
-    "depth": "standard",
+    "price": 400.0,
+    "sale_price": 360.0,
+    "depth": "narrow",
     "variations": [
       {
         "id": 1,
@@ -4079,7 +4099,7 @@
       }
     ],
     "price": "",
-    "sale_price": 290.99,
+    "sale_price": 90.99,
     "depth": "standard",
     "quantity": 0,
     "variations": [
@@ -4194,8 +4214,8 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 300.0,
-    "sale_price": 280.0,
+    "price": 200.0,
+    "sale_price": 120.0,
     "depth": "standard",
     "variations": [
       {
@@ -4309,8 +4329,8 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 300.0,
+    "sale_price": 280.0,
     "depth": "standard",
     "variations": [
       {
@@ -4424,8 +4444,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 130.0,
+    "sale_price": 120.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -4538,8 +4559,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 500.0,
+    "sale_price": 480.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -4765,8 +4787,9 @@
         "original": "/assets/images/products/p-2-4.png"
       }
     ],
-    "price": 16.38,
-    "sale_price": 12.3,
+    "price": 160.38,
+    "sale_price": 120.3,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -4878,8 +4901,9 @@
         "original": "/assets/images/products/p-8-4.png"
       }
     ],
-    "price": 19.99,
-    "sale_price": 14.99,
+    "price": 190.99,
+    "sale_price": 140.99,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -4993,7 +5017,8 @@
       }
     ],
     "price": "",
-    "sale_price": 8.0,
+    "sale_price": 180.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -5106,8 +5131,8 @@
         "original": "/assets/images/products/p-5-4.png"
       }
     ],
-    "price": 28.0,
-    "sale_price": 20.0,
+    "price": 220.0,
+    "sale_price": 120.0,
     "depth": "standard",
     "variations": [
       {
@@ -5221,8 +5246,9 @@
         "original": "/assets/images/products/p-6-4.png"
       }
     ],
-    "price": 70.0,
-    "sale_price": 55.0,
+    "price": 170.0,
+    "sale_price": 155.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -5334,8 +5360,9 @@
         "original": "/assets/images/products/p-7-4.png"
       }
     ],
-    "price": 16.38,
-    "sale_price": 12.3,
+    "price": 560.38,
+    "sale_price": 520.3,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -5439,7 +5466,8 @@
       }
     ],
     "price": "",
-    "sale_price": 50.0,
+    "sale_price": 180.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -5554,7 +5582,7 @@
     ],
     "price": 300.0,
     "sale_price": 280.0,
-    "depth": "standard",
+    "depth": "narrow",
     "variations": [
       {
         "id": 1,
@@ -5657,8 +5685,8 @@
       }
     ],
     "price": "",
-    "sale_price": 165.0,
-    "depth": "standard",
+    "sale_price": 365.0,
+    "depth": "narrow",
     "quantity": 0,
     "variations": [
       {
@@ -5772,8 +5800,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 300.0,
+    "sale_price": 180.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -5886,8 +5915,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 630.0,
+    "sale_price": 530.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -6000,8 +6030,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 400.0,
+    "sale_price": 380.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -6114,8 +6145,9 @@
         "original": "/assets/images/products/p-9-4.png"
       }
     ],
-    "price": 30.0,
-    "sale_price": 28.0,
+    "price": 300.0,
+    "sale_price": 120.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -6227,8 +6259,9 @@
         "original": "/assets/images/products/p-13-2.png"
       }
     ],
-    "price": 23.0,
-    "sale_price": 13.0,
+    "price": 230.0,
+    "sale_price": 160.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -6341,8 +6374,8 @@
         "original": "/assets/images/products/p-19-4.png"
       }
     ],
-    "price": 300.0,
-    "sale_price": 250.0,
+    "price": "",
+    "sale_price": 400.0,
     "depth": "standard",
     "variations": [
       {
@@ -6445,8 +6478,9 @@
         "original": "/assets/images/products/p-20-2.png"
       }
     ],
-    "price": 20.0,
-    "sale_price": 15.0,
+    "price": 580.0,
+    "sale_price": 550.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -6673,8 +6707,9 @@
         "original": "/assets/images/products/p-2-4.png"
       }
     ],
-    "price": 16.38,
-    "sale_price": 12.3,
+    "price": 160.0,
+    "sale_price": 120.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -6786,8 +6821,9 @@
         "original": "/assets/images/products/p-8-4.png"
       }
     ],
-    "price": 19.99,
-    "sale_price": 14.99,
+    "price": 499.99,
+    "sale_price": 440.99,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -6901,7 +6937,8 @@
       }
     ],
     "price": "",
-    "sale_price": 8.0,
+    "sale_price": 480.0,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -7015,7 +7052,7 @@
       }
     ],
     "price": 280.0,
-    "sale_price": 200.0,
+    "sale_price": 100.0,
     "depth": "standard",
     "variations": [
       {
@@ -7129,8 +7166,9 @@
         "original": "/assets/images/products/p-6-4.png"
       }
     ],
-    "price": 70.0,
-    "sale_price": 55.0,
+    "price": 700.0,
+    "sale_price": 550.0,
+    "depth": "deep",
     "variations": [
       {
         "id": 1,
@@ -7242,8 +7280,9 @@
         "original": "/assets/images/products/p-7-4.png"
       }
     ],
-    "price": 16.38,
-    "sale_price": 12.3,
+    "price": 180.38,
+    "sale_price": 160.3,
+    "depth": "deep",
     "quantity": 0,
     "variations": [
       {
@@ -7347,7 +7386,8378 @@
       }
     ],
     "price": "",
-    "sale_price": 50.0,
+    "sale_price": 140.0,
+    "depth": "deep",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 301,
+    "name": "Valsecchi 1918",
+    "type": "desk",
+    "description": "by Luca Scacchetti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/301.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Tom Dixon",
+    "type": "desk",
+    "description": "by Odoardo Fioravanti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/302.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Saba Italia",
+    "type": "desk",
+    "description": "by Giulio Cappellini",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/303.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 110.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Riflessi",
+    "type": "desk",
+    "description": "by Carlo Forcolini",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/304.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 800.0,
+    "sale_price": 570.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 305,
+    "name": "Poltronesofa",
+    "type": "desk",
+    "description": "by Andrea Branzi",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/305.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Pianca",
+    "type": "desk",
+    "description": "by Gruppo Strum",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/306.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 500.0,
+    "sale_price": 470.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Penta",
+    "type": "desk",
+    "description": "by Archizoom Associati",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/307.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 620.0,
+    "sale_price": 600.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Palmobili",
+    "type": "desk",
+    "description": "by Enrico Franzolini",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/308.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 500.0,
+    "sale_price": 470.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 309,
+    "name": "Novamobili",
+    "type": "desk",
+    "description": "by Paolo Rizzatto",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/309.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Morada",
+    "type": "desk",
+    "description": "by Pietro Arosio",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/310.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 375.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Midj",
+    "type": "desk",
+    "description": "by Stefano Giovannoni",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/311.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Living Divani",
+    "type": "desk",
+    "description": "by Fabio Lenci",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/312.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 110.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 313,
+    "name": "Ligne Roset",
+    "type": "desk",
+    "description": "by Dante Bonuccelli",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/313.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Lapis Lazuli",
+    "type": "desk",
+    "description": "by Renzo Piano",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/314.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "name": "La Palma",
+    "type": "desk",
+    "description": "by Antonio Da Ros",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/315.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 600.0,
+    "sale_price": 550.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Jesse",
+    "type": "desk",
+    "description": "by Luigi Colani",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/316.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 317,
+    "name": "Garbarino",
+    "type": "desk",
+    "description": "by Cesar Mestriner",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/317.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 700.0,
+    "sale_price": 670.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Arredamenti",
+    "type": "desk",
+    "description": "by Carlo Scarpa",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/318.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Gallotti",
+    "type": "desk",
+    "description": "by Stefano Gabbana",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/319.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 700.0,
+    "sale_price": 570.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Longhi",
+    "type": "desk",
+    "description": "by Domenico Dolce",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/320.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 322,
+    "name": "Foscarini",
+    "type": "desk",
+    "description": "by Alessandro Guerriero",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/321.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Frag",
+    "type": "desk",
+    "description": "by Matteo Thun",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/322.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 120.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Fiam",
+    "type": "desk",
+    "description": "by Federico Peri",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/323.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Collezioni",
+    "type": "desk",
+    "description": "by Giancarlo Piretti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/324.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 650.0,
+    "sale_price": 570.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 326,
+    "name": "Ceccotti",
+    "type": "desk",
+    "description": "by Livia Giuggioli",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/325.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Bontempi",
+    "type": "desk",
+    "description": "by Marco Romanelli",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/326.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 420.0,
+    "sale_price": 400.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Annibale",
+    "type": "desk",
+    "description": "by Marta Laudani",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/327.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Gervasoni",
+    "type": "desk",
+    "description": "by Marco Piva",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/328.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 100.0,
+    "sale_price": 70.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 330,
+    "name": "Pedrali",
+    "type": "desk",
+    "description": "by Lella Vignelli",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/329.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 600.0,
+    "sale_price": 520.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Nardi",
+    "type": "desk",
+    "description": "by Giuseppe Rivadossi",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/330.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 120.0,
+    "sale_price": 100.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Meridiani",
+    "type": "desk",
+    "description": "by Umberto Bellotto",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/331.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 450.0,
+    "sale_price": 380.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Selva",
+    "type": "desk",
+    "description": "by Alessandro Mendini",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/332.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 334,
+    "name": "Scavolini",
+    "type": "desk",
+    "description": "by Giovan Battista Giorgini",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/333.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 550.0,
+    "sale_price": 510.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Porada",
+    "type": "desk",
+    "description": "by Franco Raggi",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/334.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 120.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Ozzio",
+    "type": "desk",
+    "description": "by Mario Ceroli",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/335.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 600.0,
+    "sale_price": 570.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "name": "MisuraEmme",
+    "type": "desk",
+    "description": "by Cini Boeri",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/336.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 338,
+    "name": "Lema",
+    "type": "desk",
+    "description": "by Umberto Riva",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/337.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Baxter",
+    "type": "desk",
+    "description": "by Livio Castiglioni",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/338.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 600.0,
+    "sale_price": 570.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Alivar",
+    "type": "desk",
+    "description": "by Michele Provasoli",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/339.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 700.0,
+    "sale_price": 630.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Angelo",
+    "type": "desk",
+    "description": "by Piero Lissoni",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/340.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 342,
+    "name": "Arketipo",
+    "type": "desk",
+    "description": "by Andrea Branzi",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/341.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 590.0,
+    "sale_price": 560.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Giorgio",
+    "type": "desk",
+    "description": "by Vittorio Gregotti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/342.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 600.0,
+    "sale_price": 570.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Carpanelli",
+    "type": "desk",
+    "description": "by Carlo Mollino",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/343.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Arper",
+    "type": "desk",
+    "description": "by Piero Fornasetti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/344.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 500.0,
+    "sale_price": 370.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 346,
+    "name": "Emmemobili",
+    "type": "desk",
+    "description": "by Marco Ferreri",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/345.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Calligaris",
+    "type": "desk",
+    "description": "by Giuseppe Pagano",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/346.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Bonaldo",
+    "type": "desk",
+    "description": "by Giuseppe Terragni",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/347.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Tonon",
+    "type": "desk",
+    "description": "by Giotto Stoppino",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/348.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 350,
+    "name": "Vitra",
+    "type": "desk",
+    "description": "by Massimo Scolari",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/349.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Riva 1920",
+    "type": "desk",
+    "description": "by Gino Valle",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/350.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 140.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Poliform",
+    "type": "desk",
+    "description": "by Angelo Mangiarotti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/351.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 120.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Magis",
+    "type": "desk",
+    "description": "by Eugenio Gerli",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/352.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 100.0,
+    "sale_price": 90.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 354,
+    "name": "De Padova",
+    "type": "desk",
+    "description": "by Gaetano Pesce",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/353.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 500.0,
+    "sale_price": 370.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Baleri",
+    "type": "desk",
+    "description": "by Ico Parisi",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/354.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 500.0,
+    "sale_price": 470.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Zanotta",
+    "type": "desk",
+    "description": "by Rodolfo Dordoni",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/355.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 600.0,
+    "sale_price": 570.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Edra",
+    "type": "desk",
+    "description": "by Luca Nichetto",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/356.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 358,
+    "name": "Driade",
+    "type": "desk",
+    "description": "by Michele De Lucchi",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/357.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Desalto",
+    "type": "desk",
+    "description": "by Fabio Novembre",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/358.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 700.0,
+    "sale_price": 670.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Cappellini",
+    "type": "desk",
+    "description": "by Ignazio Gardella",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/359.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 800.0,
+    "sale_price": 770.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Alias",
+    "type": "desk",
+    "description": "by Antonio Citterio",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/360.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 362,
+    "name": "Porro",
+    "type": "desk",
+    "description": "by Osvaldo Borsani",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/361.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 120.0,
+    "sale_price": 110.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Giorgetti",
+    "type": "desk",
+    "description": "by Gae Aulenti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/362.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Lenti",
+    "type": "desk",
+    "description": "by Franco Albini",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/363.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 600.0,
+    "sale_price": 570.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Paola",
+    "type": "desk",
+    "description": "by Achille Castiglioni",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/364.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 500.0,
+    "sale_price": 390.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 366,
+    "name": "Moroso",
+    "type": "desk",
+    "description": "by Pierluigi Cerri",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/365.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 120.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Molteni",
+    "type": "desk",
+    "description": "by Aldo Tura",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/366.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 100.99,
+    "depth": "narrow",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Minotti",
+    "type": "desk",
+    "description": "by Marco Zanuso",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/367.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 650.0,
+    "sale_price": 570.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Poltrona",
+    "type": "desk",
+    "description": "by Paolo Buffa",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/368.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 370,
+    "name": "Cassina",
+    "type": "desk",
+    "description": "by Mario Bellini",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/369.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 400.0,
+    "sale_price": 370.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Frau",
+    "type": "desk",
+    "description": "by Joe Colombo",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/370.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 410.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Mari",
+    "type": "desk",
+    "description": "by Stig Larsson",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/371.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 700.0,
+    "sale_price": 680.99,
+    "depth": "standard",
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Enzo",
+    "type": "desk",
+    "description": "by Vico Magistretti",
+    "slug": "armani-veni-vidi-vici",
+    "isNewArrival": true,
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/372.jpeg",
+      "original": "/assets/images/products/p-11-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 200.0,
+    "sale_price": 170.99,
+    "depth": "narrow",
     "variations": [
       {
         "id": 1,

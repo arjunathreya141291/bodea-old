@@ -3,10 +3,13 @@ import { API_ENDPOINTS } from "@framework/utils/api-endpoints";
 import http from "@framework/utils/http";
 import shuffle from "lodash/shuffle";
 import { useInfiniteQuery } from "react-query";
+import { useRouter } from "next/router";
+
 type PaginatedProduct = {
   data: Product[];
   paginatorInfo: any;
 };
+
 const fetchProducts = async ({ queryKey }: any) => {
   console.log("qk", queryKey);
   const [_key, _params] = queryKey;
@@ -15,11 +18,30 @@ const fetchProducts = async ({ queryKey }: any) => {
   console.log(_key);
   console.log(_params);
 
+  const { price } = _params;
+  const { category } = _params;
+
+  console.log(price);
+
   if ("price" in _params) {
     console.log(data);
 
     data = data.filter((el: any) => {
-      return el.sale_price >= 100 && el.sale_price <= 300;
+      if (price === "$0-$150") {
+        return el.sale_price <= 150;
+      }
+
+      if (price === "$150-$350") {
+        return el.sale_price >= 150 && el.sale_price <= 350;
+      }
+
+      if (price === "$350-$500") {
+        return el.sale_price >= 350 && el.sale_price <= 500;
+      }
+
+      if (price === "Over $500") {
+        return el.sale_price >= 500;
+      }
     });
 
     console.log("afetr", data);
@@ -27,7 +49,21 @@ const fetchProducts = async ({ queryKey }: any) => {
 
   if ("category" in _params) {
     data = data.filter((el: any) => {
-      return el.depth === "standard";
+      if (category === "Standard (20 - 30 in.)") {
+        return el.depth === "standard";
+      }
+
+      if (category === "Standard (20 - 30 in.)") {
+        return el.depth === "standard";
+      }
+
+      if (category === "Narrow (less than 20 in.)") {
+        return el.depth === "narrow";
+      }
+
+      if (category === "Deep (greater than 30 in.)") {
+        return el.depth === "deep";
+      }
     });
   }
 

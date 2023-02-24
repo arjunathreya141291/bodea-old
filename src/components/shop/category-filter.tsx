@@ -31,7 +31,7 @@ export const CategoryFilter = () => {
   if (isLoading) return <p>Loading...</p>;
 
   function handleItemClick(e: React.htmlFormEvent<HTMLInputElement>): void {
-    setSearchProducts("64,000");
+    setSearchProducts("82,000");
     const { value } = e.currentTarget;
     let currenthtmlFormState = htmlFormState.includes(value)
       ? htmlFormState.filter((i) => i !== value)

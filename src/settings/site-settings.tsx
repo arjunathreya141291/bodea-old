@@ -111,11 +111,6 @@ export const siteSettings = {
         label: "Outdoor",
       },
       {
-        id: 4,
-        path: "/search",
-        label: "Bedding & Bath",
-      },
-      {
         id: 5,
         path: "/search",
         label: "Rugs",

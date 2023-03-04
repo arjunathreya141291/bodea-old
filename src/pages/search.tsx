@@ -12,47 +12,58 @@ import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { ROUTES } from "@utils/routes";
 import { useTranslation } from "next-i18next";
 import { GetStaticProps } from "next";
-import { SearchProvider } from "../contexts/search";
+import { SearchContext, SearchProvider } from "@contexts/search";
+import { useContext } from "react";
 
 export default function Shop() {
   const { t } = useTranslation("common");
 
+  const { searchProducts } = useContext(SearchContext);
+
+  console.log(searchProducts);
+
   return (
     <>
       {/* <ShopDiscount /> */}
-      <SearchProvider>
-        <Container>
-          <div className={`flex pt-8 pb-16 lg:pb-20`}>
-            <div className="flex-shrink-0 pe-24 hidden lg:block w-96">
-              <StickyBox offsetTop={50} offsetBottom={20}>
-                <div className="pb-7">
-                  <BreadcrumbItems separator="/">
-                    <ActiveLink
-                      href={"#"}
-                      activeClassName="font-semibold text-heading"
-                    >
-                      <a>{t("breadcrumb-home")}</a>
-                    </ActiveLink>
-                    <ActiveLink
-                      href={ROUTES.SEARCH}
-                      activeClassName="font-semibold text-heading"
-                    >
-                      <a className="capitalize">{t("breadcrumb-search")}</a>
-                    </ActiveLink>
-                  </BreadcrumbItems>
-                </div>
-                <ShopFilters />
-              </StickyBox>
-            </div>
-
-            <div className="w-full lg:-ms-9">
-              <SearchTopBar />
-              <ProductGrid />
-            </div>
+      <Container>
+        <div className={`flex pt-8 pb-16 lg:pb-20`}>
+          <div className="flex-shrink-0 pe-24 hidden lg:block w-96">
+            <StickyBox offsetTop={50} offsetBottom={20}>
+              <div className="pb-7">
+                <BreadcrumbItems separator="/">
+                  <ActiveLink
+                    href={"#"}
+                    activeClassName="font-semibold text-heading"
+                  >
+                    <a>{t("breadcrumb-home")}</a>
+                  </ActiveLink>
+                  <ActiveLink
+                    href={ROUTES.SEARCH}
+                    activeClassName="font-semibold text-heading"
+                  >
+                    <a className="capitalize">{t("breadcrumb-search")}</a>
+                  </ActiveLink>
+                </BreadcrumbItems>
+              </div>
+              <ShopFilters />
+            </StickyBox>
           </div>
-          {/* <Subscription /> */}
-        </Container>
-      </SearchProvider>
+
+          <div className="w-full lg:-ms-9">
+            <SearchTopBar />
+
+            <div className=" text-body text-xs md:text-sm leading-4 pe-4 md:me-6 hidden lg:block mb-7">
+              {searchProducts.length >= 4 && <span>Over </span>}
+              <span style={{ color: "black", fontWeight: "bold" }}>
+                {searchProducts}
+              </span>{" "}
+              {t("text-items")}
+            </div>
+            <ProductGrid />
+          </div>
+        </div>
+        {/* <Subscription /> */}
+      </Container>
     </>
   );
 }

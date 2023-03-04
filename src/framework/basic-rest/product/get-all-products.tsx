@@ -68,7 +68,7 @@ const fetchProducts = async ({ queryKey }: any) => {
   }
 
   return {
-    data: shuffle(data),
+    data: data.sort((a: any, b: any) => b.sale_price - a.sale_price),
     paginatorInfo: {
       nextPageUrl: "",
     },

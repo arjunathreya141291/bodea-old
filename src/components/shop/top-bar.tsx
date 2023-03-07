@@ -20,12 +20,13 @@ export default function SearchTopBar() {
   // const { searchProducts } = useCart();
   const { searchProducts } = useContext(SearchContext);
   const contentWrapperCSS = dir === "ltr" ? { left: 0 } : { right: 0 };
+  const { searchValue } = useContext(SearchContext);
 
   // console.log("sp", searchProducts);
   return (
     <div className="flex justify-between items-center">
       <Text variant="pageHeading" className="hidden lg:inline-flex pb-1">
-        {t("text-casual-wear")}
+        {searchValue}
       </Text>
       {/* <button
         className="lg:hidden text-heading text-sm px-4 py-2 font-semibold border border-gray-300 rounded-md flex items-center transition duration-200 ease-in-out focus:outline-none hover:bg-gray-200"

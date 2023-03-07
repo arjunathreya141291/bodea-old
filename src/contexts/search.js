@@ -5,10 +5,13 @@ const SearchContext = createContext();
 
 const SearchProvider = ({ children }) => {
   const [searchProducts, setSearchProducts] = useState("100,000");
+  const [searchValue, setSearchValue] = useState("");
 
   const context = {
     searchProducts,
     setSearchProducts,
+    searchValue,
+    setSearchValue,
   };
 
   return (

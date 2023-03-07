@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React, { useRef, useContext } from "react";
 import SearchIcon from "@components/icons/search-icon";
 import { siteSettings } from "@settings/site-settings";
 import HeaderMenu from "@components/layout/header/header-menu";
@@ -14,6 +14,7 @@ const CartButton = dynamic(() => import("@components/cart/cart-button"), {
   ssr: false,
 });
 import { useRouter } from "next/router";
+import { SearchContext } from "@contexts/search";
 
 type DivElementRef = React.MutableRefObject<HTMLDivElement>;
 const { site_header } = siteSettings;
@@ -24,6 +25,8 @@ const Header: React.FC = () => {
   const { t } = useTranslation("common");
   const siteHeaderRef = useRef() as DivElementRef;
   addActiveScroll(siteHeaderRef);
+
+  const { setSearchValue } = useContext(SearchContext);
 
   function handleLogin() {
     setModalView("LOGIN_VIEW");
@@ -42,6 +45,11 @@ const Header: React.FC = () => {
     router.push({
       pathname: "/",
     });
+  }
+
+  function handleOnChange(event: any) {
+    console.log(event);
+    setSearchValue(event.target.value);
   }
 
   return (
@@ -73,6 +81,7 @@ const Header: React.FC = () => {
                   type="search"
                   id="search"
                   defaultValue=""
+                  onChange={handleOnChange}
                   name="search"
                   placeholder="search"
                   className="form-input pl-11 pr-5 w-44 block shadow-sm rounded-full border-gray-300 bg-gray-50 text-sm placeholder-gray-300 focus:border-blue-300 focus:ring-1 focus:ring-blue-300"
